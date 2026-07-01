@@ -106,7 +106,7 @@ The application follows an MVC-inspired architecture:
 Clone the repository:
 
 ```bash
-git clone https://github.com/<your-username>/<repository>.git
+git clone https://github.com/mschiare/Drawing-Application/tree/main
 ```
 
 Enter the project directory:
