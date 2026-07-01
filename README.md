@@ -10,7 +10,7 @@ The application provides an interactive canvas where users can create, edit and 
 
 ## Features
 
-### Drawing Tools
+### Drawing Tools 
 
 - Rectangle
 - Ellipse
@@ -18,7 +18,7 @@ The application provides an interactive canvas where users can create, edit and 
 - Polygon
 - Text
 
-### Editing
+### Editing 
 
 - Select objects
 - Move objects
@@ -31,7 +31,7 @@ The application provides an interactive canvas where users can create, edit and 
 - Bring object to front
 - Send object to back
 
-### Clipboard
+### Clipboard 
 
 - Copy
 - Cut
@@ -79,9 +79,9 @@ These patterns separate responsibilities and simplify future extensions.
 
 - Java 21
 - JavaFX 23
+- SceneBuilder
 - Maven
 - JUnit 5
-- Mockito
 
 ---
 
