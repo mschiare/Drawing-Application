@@ -112,7 +112,7 @@ git clone https://github.com/mschiare/Drawing-Application/tree/main
 Enter the project directory:
 
 ```bash
-cd Progetto_SAD_Gruppo14_AH
+cd Progetto_SAD
 ```
 
 Compile:
