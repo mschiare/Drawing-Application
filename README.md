@@ -1,4 +1,4 @@
-# Drawing Application – Software Architecture & Design
+# Drawing Application 🎨
 
 ## Overview
 
